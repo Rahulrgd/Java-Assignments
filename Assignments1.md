@@ -1,4 +1,4 @@
----
+
 
 ### **Assignment 1: Java Fundamentals and Spring Boot Basics**
 
@@ -23,4 +23,3 @@
 6. **Spring Boot Error Handling**
    - Implement global exception handling in Spring Boot using `@ControllerAdvice`. Handle a custom exception for invalid user data (e.g., invalid email format).
 
----
